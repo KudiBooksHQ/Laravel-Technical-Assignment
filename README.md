@@ -1,10 +1,10 @@
-# Laravel Technical Assignment
+# Laravel Developer Technical Assignment
 
-# TO BE SUBMITTED BY 00:00, 19th OF MAY 2022
+# TO BE SUBMITTED BY 23:59, ON THE 20th OF OCTOBER 2024
 
 ## Description
 
-This assignment will help assessing you technical skills. From ^php7.4 syntax to code structure, appropriate coding principles and design patterns, and last but not least proper test coverage.
+This assignment will help assessing you technical skills. From ^php8 syntax to code structure, appropriate coding principles and design patterns, and last but not least proper and relevant test coverage.
 
 ## Project
 
@@ -12,14 +12,14 @@ An employee management software, nothing fancy it's just a simple SPA app with a
 
 ## Tools
 
-- Laravel 9
-- PHPUnit or PestPHP as testing framework
+- Laravel 11
+- PHPUnit or PestPHP for testing
 - Laravel Sail
-- Laravel Sanctum for SPA authentication
-- laravel-dompdf/laravel-snappy
+- Laravel Sanctum for authentication
+- laravel-snappy
 - PHPSpreadSheet
 - VueJS for the frontend
-- MailTrap
+- Mailpit
 
 ## Features
 
